@@ -29,7 +29,7 @@ This webpage highlights the limited-edition collection to celebrate the original
 
 - HTML5: For structuring the content of the webpage.
 - CSS3: For styling and layout, including Flexbox and Grid for responsive design.
-- JavaScript: Tiny Slider JS For interactive elements such as the carousel.
+- JavaScript: For interactive elements such as the carousel (tiny-slider)
 - GitHub Pages: Hosting the webpage on GitHub for easy access and management.
 - Responsive Web Design: Ensures the site is accessible and looks great on all devices, from desktops to mobile phones.
 
