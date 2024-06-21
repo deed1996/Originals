@@ -1,7 +1,4 @@
-# Originals
-
-The design of this webpage is based on a <a href="https://www.figma.com/design/pAwb5k359nQtUUecAamuPH/Untitled?node-id=1-157&t=c7P3PKtUDt0brorU-1" target="_blank">Figma</a> file, and all design rights are owned by Clarks.
-
+# Jamaica x Clarks Originals
 
 ## Table of contents
 
@@ -13,7 +10,7 @@ The design of this webpage is based on a <a href="https://www.figma.com/design/p
 - [Author](#author)
 
 ## Overview
-This webpage highlights the limited-edition collection to celebrate the original connection to the Jamaican Culture.
+This webpage highlights the limited-edition collection to celebrate the original connection to Jamaican Culture.
 
 ### Screenshot
 
@@ -35,5 +32,5 @@ This webpage highlights the limited-edition collection to celebrate the original
 
 ## Author
 
-- Website - Devarshi Desai
-- Design - Clarks
+- Design - Designed by Clarks
+- Website - Built by Devarshi Desai
